@@ -16,8 +16,8 @@ This is ideal for data scientists, developers, and AI enthusiasts looking to str
 
 
 # References:
-https://python.langchain.com/v0.2/docs/introduction/
-![image](https://github.com/user-attachments/assets/cdf70aa4-e8d3-4419-9f60-b138d869c4cc)
 
-https://docs.pydantic.dev/latest/api/base_model/
-![image](https://github.com/user-attachments/assets/3a73655c-d5bf-4a92-b851-45003a99b594)
+* https://python.langchain.com/v0.2/docs/introduction/
+
+* https://docs.pydantic.dev/latest/api/base_model/
+
