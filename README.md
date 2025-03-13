@@ -10,3 +10,11 @@ By the end of the notebook , you will gain hands-on knowledge of how to:
 •	Automate text processing and integrate structured outputs into AI/ML workflows
 
 This is ideal for data scientists, developers, and AI enthusiasts looking to streamline data extraction. A basic understanding of Python and LLMs is helpful but not mandatory. 
+
+
+# References:
+https://python.langchain.com/v0.2/docs/introduction/
+![image](https://github.com/user-attachments/assets/cdf70aa4-e8d3-4419-9f60-b138d869c4cc)
+
+https://docs.pydantic.dev/latest/api/base_model/
+![image](https://github.com/user-attachments/assets/3a73655c-d5bf-4a92-b851-45003a99b594)
